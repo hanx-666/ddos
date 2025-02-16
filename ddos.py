@@ -1,3 +1,7 @@
+# ga sampe tembus go.id, wkwk
+# tapi agak gacor lah buat lu yg nyari sc ddos gratisan
+# free recode asal kasih credit gw © HanX
+
 from asyncio import open_connection, create_task, Event, sleep, run
 from yarl import URL
 from sys import argv as args
